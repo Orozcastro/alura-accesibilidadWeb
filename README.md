@@ -49,6 +49,7 @@ Es la perdida total de la audicion en uno o ambos oidos, pueder ser total o parc
 * Uso de subtitulos en videos o contenidos de audio.
 * Tener el mismo patron para los botones(bordes redondeados).
 * Poner diferentes formas de contacto, correo y redes sociales.
+Aplicacion hablalo
 
 ### DISLEXIA
 
