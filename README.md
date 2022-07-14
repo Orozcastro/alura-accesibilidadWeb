@@ -4,6 +4,7 @@
 Practica inclusiva de garantizar que personas con discapacidad puedan utilizar diversos servicios.
 
 ## ACCESIBLIDAD WEB
+[¿Qué es la accesibilidad?](https://developer.mozilla.org/es/docs/Learn/Accessibility/What_is_accessibility)
 
 #### Introduccion a las Pautasde Accesibilidad para el Contenido Web (WCAG)
 
@@ -26,7 +27,7 @@ Tiene como objetivo traer un estandar internacional para accesibilidad web.
 * Discapacidad intelectual;
 * Discapacidad psicosocial.
 
-[Figma](https://www.figma.com/file/XZg8sx6CWLKYGkIM6nffbF/Apeperia-(proyecto-inicial)-(Copy))
+[Figma](https://www.figma.com/file/DQviKnPWYOOxSlqLr1K2y5/Apeperia-(M%C3%B3dulo-6)?node-id=0%3A1)
 
 ### AUTISMO
 SIMBOLO (4 piezas de rompecabezas, azul/naranja)
@@ -58,8 +59,8 @@ SIMBOLO (Cubos A,B,C naranja/azul)
 Es un transtorno de aprendizaje que afecta la lentura y escritura
 Dificultad para escribir y deletrear palabras, mala pronunciacion, dificultad para entender expresiones
 Dificultad de memorizacion de datos y numeros y dificultad para aprender otro idioma
-[Dislexia](https://geon.github.io/programming/2016/03/03/dsxyliea)
-[Persona con dislexia](https://www.youtube.com/watch?v=o6T5PhqQfU8)
+- [Dislexia](https://geon.github.io/programming/2016/03/03/dsxyliea)
+- [Persona con dislexia](https://www.youtube.com/watch?v=o6T5PhqQfU8)
 
 * Poner el texto alineado a la izq. Evitar textos justificados o centrados
 * Poner los botones/enlaces con un mismo formato.
@@ -79,18 +80,23 @@ Baston blanco(ciegos)   |   Baston blanco y rojo(ciego y sordo)   |   Baston ver
 Condicion visual que reduce la vision y que no mejora con lentes e incluso con tratamientos farmacologicos o cirugia.
 
 * Poner un contraste entre el color del fondo y del texto
- [web AIM](https://webaim.org/resources/contrastchecker/)
- [contrastchecker](https://contrastchecker.com/)
- [extension chrome contrast checker](https://chrome.google.com/webstore/detail/color-contrast-checker/jibccbkkepidahndjomdfbmbnfappopf)
- [chrome devTools](https://developer.chrome.com/blog/new-in-devtools-65/#a11y)
- [USERWAY](https://userway.org/contrast/?fg=785412&bg=145256)
+ -[web AIM](https://webaim.org/resources/contrastchecker/)
+ -[contrastchecker](https://contrastchecker.com/)
+ -[extension chrome contrast checker](https://chrome.google.com/webstore/detail/color-contrast-checker/jibccbkkepidahndjomdfbmbnfappopf)
+ -[chrome devTools](https://developer.chrome.com/blog/new-in-devtools-65/#a11y)
+ -[USERWAY](https://userway.org/contrast/?fg=785412&bg=145256)
 * Poner un buen tamaño de fuente, minimo 14px.
 * Poner la informacion necesaria en cada apartado
 * Uso de iconos [flaticon](https://www.flaticon.es/)
 
 ### DISCAPACIDAD FISICA
-SIMBOLO
+SIMBOLO (persona en silla de ruedas azul)
 Disminucion o ausencia de funciones motoras o fisicas de una o varias partes del cuempo.
 o incordinacion del movimiento
-
-
+google assistance por comando de voz | siri | cortana
+* Tamaño de botones grandes para hacer clic facilmente
+* Uso de focus
+* Que pueda hacer uso del teclado para cambiar de elemento
+* Evitar alertas/spam o cerrar mensaje cuando haces clic fuera de la caja o al dar enter.
+* Insertar el codigo postal para que se completen los demas campos de direccion.
+* 
